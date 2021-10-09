@@ -1,0 +1,57 @@
+#menu {
+    background-color:#ffc800;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+body{
+    margin: 0px;
+    font-family: opensanstitle, helvetica, arial, sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+    line-height: 30px;
+}
+
+#logo {
+    width: 181px;
+}
+
+#conteudo {
+    padding-left: 100px;
+    padding-right:100px ;
+}
+
+    h1{
+        font-size: 2em;
+        font-weight: 700;
+    }
+
+    h2{
+        color: #555;
+        font-size: 1.lem;
+        font-weight: 200;
+    }
+
+    a{
+        text-decoration: none;
+        color: #a5147d;
+        font-weight: 700;
+    }
+
+    .texto-final {
+        font-weight:600 ;
+        border-top:solid #777 2px ;
+        margin-top:50px;
+    }
+
+    #rodape {
+       padding: 5px;
+       background-color: #ffc800;
+       text-align: center;
+       font-size: 0.7em;
+    }
+
+    li{
+        line-height: 40px;
+    }
